@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="editText">Ingresa URL de la pagina</string>
+    <string name="btn1">cargar URL</string>
+
+
+
+</resources>
